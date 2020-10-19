@@ -6,7 +6,7 @@
 - 11st Open API
 
 
-#### 사용법
+### 사용법
 
 ![검색](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
 ![페이지](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
