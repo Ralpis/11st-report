@@ -9,8 +9,7 @@
 ##### 사용법
 
 ![검색](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
-![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
-- 페이지 이동
+![페이지](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
 
 
 ###### -1. 모바일 환경 : APK를 이용하여 설치하는 방법
