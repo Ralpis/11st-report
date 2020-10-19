@@ -1,16 +1,17 @@
 # 11번가 API 활용한 검색 애플리케이션
 
-##### 개발 언어 및 환경
+#### 개발 언어 및 환경
 - Java 
 - Android Studio 4.1
 - 11st Open API
 
 
-##### 사용법
+#### 사용법
 
 ![검색](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
 ![페이지](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
 
+####설치법
 
 ###### -1. 모바일 환경 : APK를 이용하여 설치하는 방법
 
