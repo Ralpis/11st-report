@@ -12,7 +12,7 @@
 
    [GoogleDrive Link][googlelink]
 
-[googlelink]:https://drive.google.com/file/d/1V5THzUNGr7L4wuoZ8wWi68q_L_c5cVyp/view?usp=sharing
+[googlelink]:https://drive.google.com/file/d/1p06h2yi43t8p6DR0AqA0PjkUhZ3p7F0X/view?usp=sharing
 
 
 ###### -2. 데스크탑 환경 : Github ZIP다운로드를 하여 설치하는 방법
