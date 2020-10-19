@@ -16,4 +16,4 @@
 
 
 ###### -2. 데스크탑 환경 : Github ZIP다운로드를 하여 설치하는 방법
-
+![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/11st_down.gif)
