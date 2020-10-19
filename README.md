@@ -8,8 +8,7 @@
 
 ##### 사용법
 
-![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
-- 검색
+![검색](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
 ![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
 - 페이지 이동
 
