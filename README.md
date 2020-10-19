@@ -6,11 +6,6 @@
 - 11st Open API
 
 
-### 사용법
-
-![검색](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
-![페이지](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
-
 ### 설치
 
 ###### -1. 모바일 환경 : APK를 이용하여 설치
@@ -22,3 +17,11 @@
 
 ###### -2. 데스크탑 환경 : Github ZIP다운로드를 하여 설치하는 방법
 ![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/11st_down.gif)
+
+
+
+### 사용법
+
+![검색](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
+![페이지](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
+
