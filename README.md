@@ -11,9 +11,7 @@
 ![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
 ![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
 
--1. 검색
-
--2. 페이지 이동
+-1. 검색  -2. 페이지 이동
 
 
 ###### -1. 모바일 환경 : APK를 이용하여 설치하는 방법
