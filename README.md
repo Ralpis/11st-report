@@ -2,7 +2,7 @@
 
 ##### 개발 언어 및 환경
 - Java 
-- Android Studio 4.1 (IntelliJ를 지원하는 안드로이드 스튜디오가 필요)
+- Android Studio 4.1
 - 11st Open API
 
 
