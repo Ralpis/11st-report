@@ -9,11 +9,9 @@
 ##### 사용법
 
 ![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/search.gif)
+![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
 
 -1. 검색
-
-
-![Alt text](https://github.com/Ralpis/11st_report_Chosunwoo/blob/master/next.gif)
 
 -2. 페이지 이동
 
